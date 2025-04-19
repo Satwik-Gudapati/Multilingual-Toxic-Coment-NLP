@@ -1,0 +1,16 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.multilingual-toxic-nlp/
+
+# Data files
+data/
+*.zip
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
