@@ -70,14 +70,24 @@ Main packages:
 ---
 
 👤 Author
+
 Satwik Gudapati
+
 Master's Student in Information Science
+
 University of Arizona
+
 LinkedIn (https://www.linkedin.com/in/satwik-gudapati/)
 
+---
+
 🙏 Acknowledgements
+
 Jigsaw Multilingual Challenge (Kaggle) (https://www.kaggle.com/competitions/jigsaw-multilingual-toxic-comment-classification/)
+
 Hugging Face Transformers (https://huggingface.co/docs/transformers/en/index)
+
 scikit-learn (https://scikit-learn.org/stable/)
+
 Wikipedia Talk Pages (https://meta.wikimedia.org/wiki/Talk_pages_project)
 
