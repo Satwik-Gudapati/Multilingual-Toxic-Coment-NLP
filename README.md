@@ -56,7 +56,7 @@ You must accept the competition rules on Kaggle to access the data. Use the Kagg
 
 ## 🧪 Dependencies
 
-Use the provided `requirements.txt` or `environment.yml` file.
+Use the provided `requirements.txt` file.
 
 Main packages:
 - `transformers`
